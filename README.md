@@ -45,5 +45,33 @@ Para correr los test, se uso la libreria jest. Con el siguiente commando se corr
 ```
 
 
+## Paquetes
+
+### React
+
+De parte de los paquetes de React se tiene
++ react: libreria que facilita la creacion de 
++ react-dom: libreria para el manejo del virtual-dom 
++ react-router-dom: libreria para tener el control de la navegacion
++ redux: libreria de manejador de estado
++ react-redux: libreria de soporte para redux
+
+### Webpack
+
+Las librerias de webpack que se usaron son
++ webpack: libreria que sirve para empaquetar los archivos del proyecto
++ webpack-dev-server: empaquetar en caliente el proyecto
+
+### Babel
+
++ @babel/core: transpilador de javascript
++ @babel/preset-react: libreria que tiene las reglas para transpilar react
+
+### Eslint
+
++ eslint: libreria de marcado de codigo.
+
+
+
 ## Contribuidores
 DrCesar - Josue Jacobs
